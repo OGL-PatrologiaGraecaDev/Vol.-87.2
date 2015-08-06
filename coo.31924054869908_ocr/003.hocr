@@ -1,0 +1,18 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/87:pt.2/coo.31924054869908/003.png"; bbox 0 0 2030 3143; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 71 0 2030 3143">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 276 1406 2753">
+     <span class='ocr_line' id='line_1_1' title="bbox 257 276 516 435; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 257 276 516 435; x_wconf 60' lang='grc' dir='ltr'><strong><em>*ο</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 352 445 611 602; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 352 445 611 602; x_wconf 57' lang='grc' dir='ltr'><strong><em>νο</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 450 613 705 772; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 450 613 705 772; x_wconf 60' lang='grc' dir='ltr'><strong><em>σο</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 456 781 804 941; baseline 0.046 -63"><span class='ocrx_word' id='word_1_4' title='bbox 456 844 471 878; x_wconf 75' lang='grc' dir='ltr'><em>ρ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 551 781 804 941; x_wconf 50' lang='grc' dir='ltr'><strong><em>ὑφ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 666 947 899 1110; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 666 947 899 1110; x_wconf 59' lang='grc' dir='ltr'><strong><em>⁸ο</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 404 2358 1406 2753; baseline 0 -373"><span class='ocrx_word' id='word_1_7' title='bbox 1391 2652 1406 2753; x_wconf 64' lang='grc' dir='ltr'><strong>Ι</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
